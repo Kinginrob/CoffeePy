@@ -1,6 +1,6 @@
 # coffeePython
 
-Beginner Coffee Shop Python Script.
+ Cafe Python Script.
 
 ## Description
 
